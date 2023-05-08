@@ -96,9 +96,3 @@
 <br>
 
 ---
-
-<br>
-
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 03/31/2023
