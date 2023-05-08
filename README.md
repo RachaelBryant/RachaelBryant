@@ -3,6 +3,9 @@
 <br>
 <p align="center">
 
+Welcome to my page! I'm always aiming to learn new things to add to what I have below!
+
+
 - **Languages**:
     
     
